@@ -208,7 +208,7 @@ while bondCount < targetCount and ((zStep < 0 and z >= zEnd) or (zStep > 0 and z
     direction *= -1
 end
 
-statusLabel.Text = "Total Bonds Collected: " .. tostring(bondCount) .. " | Cracked by BIGBACK"
+statusLabel.Text = "Total Bonds Collected: " .. tostring(bondCount) .. "OPEN SOURCE | Made by BIGBACK"
 statusLabel.TextSize = 24.5
 
 task.wait(5.5)
