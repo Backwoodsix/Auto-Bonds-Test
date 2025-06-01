@@ -125,7 +125,7 @@ statusLabel.TextSize = 32
 statusLabel.Font = Enum.Font.Fantasy
 statusLabel.TextColor3 = Color3.new(1, 1, 1)
 statusLabel.TextStrokeTransparency = 0.5
-statusLabel.Text = "This script was cracked by BIGBACK. Please never make scripts again."
+statusLabel.Text = "script Made By BIGBACK/ Ty ringta for help."
 statusLabel.Parent = bondGui
 
 local activateRemote = ReplicatedStorage:WaitForChild("Shared"):WaitForChild("Network"):WaitForChild("RemotePromise"):WaitForChild("Remotes"):WaitForChild("C_ActivateObject")
